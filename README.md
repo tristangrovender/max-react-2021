@@ -1,1 +1,1 @@
-# doodle-clone
+# max-react-2021
