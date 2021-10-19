@@ -1,9 +1,3 @@
-// Create a new component
-// use a dropdown and use a filter
-// listen to changes on dropdown
-// picked year value is forwarded to expenses component
-// save slice of state in expenses with value
-
 import "./ExpensesFilter.css";
 
 import React from "react";
